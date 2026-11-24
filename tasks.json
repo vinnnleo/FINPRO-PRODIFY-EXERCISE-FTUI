@@ -1,0 +1,32 @@
+[
+  {
+    "id": "951fcee6-3159-4e56-9f91-7d40421dcc58",
+    "title": "Test",
+    "notes": "",
+    "category": "Kuliah",
+    "priority": "medium",
+    "dueAt": "2026-11-24T12:40:00.000Z",
+    "remindBefore": 60,
+    "completed": true,
+    "completedAt": "2026-11-24T12:41:04.476Z",
+    "earlySent": true,
+    "dueSent": true,
+    "createdAt": "2026-11-24T12:40:58.048Z",
+    "updatedAt": "2026-11-24T12:41:04.476Z"
+  },
+  {
+    "id": "68203c67-5092-491c-a6eb-74790ce6fbf6",
+    "title": "test",
+    "notes": "",
+    "category": "Kuliah",
+    "priority": "medium",
+    "dueAt": "2026-11-24T12:42:00.000Z",
+    "remindBefore": 60,
+    "completed": true,
+    "completedAt": "2026-11-24T12:41:30.276Z",
+    "earlySent": true,
+    "dueSent": false,
+    "createdAt": "2026-11-24T12:41:17.315Z",
+    "updatedAt": "2026-11-24T12:41:30.276Z"
+  }
+]
